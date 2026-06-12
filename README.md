@@ -62,5 +62,21 @@ EN DESARROLLO
 ## TEMAS DE INVESTIGACION
 
 Explorando el mercado de criptomonedas Bitcoin
+
 Análisis de las ventas de piezas para AUTO
+
 Análisis de resultados de partidos mundial 2026
+
+
+## LISTA DE VERIFICACION
+SQL
+
+Microsoft Excel
+
+Estadísticas
+
+Visualización de datos
+
+Habilidades de presentación y comunicación
+
+Pensamiento crítico
