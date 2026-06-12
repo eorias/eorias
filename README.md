@@ -69,9 +69,16 @@ Análisis de resultados de partidos mundial 2026
 
 
 ## LISTA DE VERIFICACION
+
+Statistical Analysis
+
+Tableau
+
+Python
+
 SQL
 
-Microsoft Excel
+Advanced Microsoft Excel
 
 Estadísticas
 
