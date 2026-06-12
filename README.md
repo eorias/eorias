@@ -57,3 +57,10 @@ EN DESARROLLO
 ## CREDITOS
 <!-- Lista de personas u organizaciones que contribuyeron o le brindaron asistencia mientras creaba el proyecto. También puedes incluir sitios que proporcionaron inspiración o retroalimentación.-->
 EN DESARROLLO
+
+
+## TEMAS DE INVESTIGACION
+
+Explorando el mercado de criptomonedas Bitcoin
+Análisis de las ventas de piezas para AUTO
+Análisis de resultados de partidos mundial 2026
